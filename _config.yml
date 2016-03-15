@@ -1,7 +1,7 @@
 name: Matt Davidson
 favicon: null
-layout_spectrum: 0.938993263291195
-typography_spectrum: 0.0007009045220911503
+layout_spectrum: 1
+typography_spectrum: 0.49086
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#312819'
+    - '#626554'
+    - '#fefdff'
+    - '#94becc'
+    - '#a48779'
   brandStrength: 0.6385533416178077
   lightness: 0.05317387776449323
   saturation: 0.6797118734102696
