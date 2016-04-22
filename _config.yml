@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.6797118734102696
+  saturation: 0.6797119
   brandStrength: 0.8404256
-  rhythmicContrast: 0.05536439316347241
+  lightness: 1
   brandColors:
     - '#ff9900'
     - '#424242'
     - '#bcbcbc'
     - '#3299bb'
     - '#737373'
-  lightness: 0.375
+  rhythmicContrast: 0.05536439
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Matt Davidson
 favicon: null
+name: Matt Davidson
 opengraph:
   image: null
   type: null
