@@ -15,9 +15,9 @@ keywords:
   - heroes
   - review
   - arctic
-description: Beluga whale tower vanishes.
-datePublished: '2016-04-25T21:42:57.790Z'
-dateModified: '2016-04-25T21:42:06.479Z'
+description: 'After a particularly bad storm we looked out to realize the towers were missing. After strapping on GoPro cameras we went to recover whatever had remained,'
+datePublished: '2016-04-25T21:44:17.825Z'
+dateModified: '2016-04-25T21:44:16.633Z'
 author:
   - name: Matt Davidson
     url: 'https://www.youtube.com/user/mattbv02'
