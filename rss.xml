@@ -4,7 +4,7 @@
         <description><![CDATA[Matt Davidson ]]></description>
         <link>http://mattdavidson.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 00:43:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 00:44:14 GMT</lastBuildDate>
         <atom:link href="http://mattdavidson.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hi! Welcome to my little place on the Internet. ]]></title>
@@ -12,13 +12,6 @@
             <link>http://mattdavidson.ca/hi-welcome-to-my-little-place-on-the-internet/index.html</link>
             <guid isPermaLink="false">b6440df9-b6f7-4370-8036-6c3ca03e90b5</guid>
             <pubDate>Mon, 25 Apr 2016 00:43:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Beluga Whale Live-Feed Project]]></title>
-            <description><![CDATA[<article><h1>The Beluga Whale Live-Feed Project</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7498ec0842c3efbd6ff232bd37e2ee4b1b6e6273.jpg"></article>]]></description>
-            <link>http://mattdavidson.ca/the-beluga-whale-live-feed-project/index.html</link>
-            <guid isPermaLink="false">9f1b2d74-203d-4ce6-8f51-8c94b11fbfd5</guid>
-            <pubDate>Mon, 25 Apr 2016 00:25:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
