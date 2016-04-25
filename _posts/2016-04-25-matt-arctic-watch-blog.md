@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://vimeo.com/48619473'
 inLanguage: null
 keywords: []
 description: 'This video is part of a three-part blog series on http://blog.bv02.com about the Beluga Cam project. The Beluga Cam project was intended to create a live stream of video from an inlet in the Arctic where over 2000 beluga whales gather every summer.'
-datePublished: '2016-04-25T21:36:17.685Z'
-dateModified: '2016-04-25T21:36:02.196Z'
+datePublished: '2016-04-25T21:39:31.603Z'
+dateModified: '2016-04-25T21:39:31.282Z'
 author:
   - name: bv02
     url: 'http://vimeo.com/bv02'
