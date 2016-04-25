@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Matt Davidson
 favicon: null
+name: Matt Davidson
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.31197
-layout_spectrum: 1
+layout_spectrum: 0.2021277
