@@ -16,8 +16,8 @@ keywords:
   - review
   - arctic
 description: Beluga whale tower vanishes.
-datePublished: '2016-04-25T21:38:41.683Z'
-dateModified: '2016-04-25T21:29:44.222Z'
+datePublished: '2016-04-25T21:42:57.790Z'
+dateModified: '2016-04-25T21:42:06.479Z'
 author:
   - name: Matt Davidson
     url: 'https://www.youtube.com/user/mattbv02'
@@ -61,6 +61,8 @@ app_links:
     namespace: google
     type: ios
 title: Arctic Watch Tower Rescue
+sourcePath: _posts/2016-04-25-arctic-watch-tower-rescue.md
+published: true
 authors: []
 publisher:
   name: YouTube
@@ -68,8 +70,6 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
-sourcePath: _posts/2016-04-25-arctic-watch-tower-rescue.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
