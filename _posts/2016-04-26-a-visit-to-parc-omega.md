@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-26T21:21:09.832Z'
-dateModified: '2016-04-26T21:20:57.006Z'
+datePublished: '2016-04-26T21:21:54.319Z'
+dateModified: '2016-04-26T21:21:45.091Z'
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-04-26-a-visit-to-parc-omega.md
 published: true
-title: ' '
+title: ''
 authors: []
 publisher:
   name: null
@@ -24,6 +24,6 @@ url: a-visit-to-parc-omega/index.html
 _type: Article
 
 ---
-# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4940ed85-1f32-42a9-9344-6984e4a0bbd2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4940ed85-1f32-42a9-9344-6984e4a0bbd2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17f5fe49-8b91-46f4-a443-83b245a77e53.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40815590-7c17-4b41-aaee-41ee9deda4f7.jpg)
