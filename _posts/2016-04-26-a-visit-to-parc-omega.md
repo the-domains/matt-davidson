@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Four of us hopped in the car headed for Parc Omega. Im happy I brought my camera. '
-datePublished: '2016-04-26T20:49:03.453Z'
-dateModified: '2016-04-26T20:48:47.060Z'
+datePublished: '2016-04-26T20:52:08.456Z'
+dateModified: '2016-04-26T20:51:53.964Z'
 title: A Visit to Parc Omega
 author:
   - name: ''
