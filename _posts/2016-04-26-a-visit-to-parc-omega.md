@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-26T21:26:11.898Z'
-dateModified: '2016-04-26T21:26:06.088Z'
+datePublished: '2016-04-26T21:27:46.787Z'
+dateModified: '2016-04-26T21:26:20.469Z'
 author:
   - name: ''
     url: ''
@@ -19,7 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: a-visit-to-parc-omega/index.html
 _type: Article
 
