@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-26T21:21:54.319Z'
-dateModified: '2016-04-26T21:21:45.091Z'
+datePublished: '2016-04-26T21:26:11.898Z'
+dateModified: '2016-04-26T21:26:06.088Z'
 author:
   - name: ''
     url: ''
@@ -19,11 +19,13 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: a-visit-to-parc-omega/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4940ed85-1f32-42a9-9344-6984e4a0bbd2.jpg)
+# A Visit to Parc Omega 
+
+Four of us hopped in the car headed for Parc Omega. Im happy I brought my camera. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4940ed85-1f32-42a9-9344-6984e4a0bbd2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17f5fe49-8b91-46f4-a443-83b245a77e53.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40815590-7c17-4b41-aaee-41ee9deda4f7.jpg)
