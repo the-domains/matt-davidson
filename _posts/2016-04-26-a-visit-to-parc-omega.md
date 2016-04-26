@@ -1,24 +1,24 @@
 ---
-description: ''
-datePublished: '2016-04-26T21:16:02.495Z'
-inNav: false
+inFeed: true
+hasPage: true
+inNav: true
 inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-04-26T21:18:41.062Z'
+dateModified: '2016-04-26T21:18:29.429Z'
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-04-26-a-visit-to-parc-omega.md
-hasPage: true
 published: true
-authors: []
 title: A Visit to Parc Omega
+authors: []
 publisher:
-  favicon: null
   name: null
   domain: null
   url: null
-keywords: []
-dateModified: '2016-04-26T21:15:29.362Z'
-inFeed: true
+  favicon: null
 starred: false
 url: a-visit-to-parc-omega/index.html
 _type: Article
