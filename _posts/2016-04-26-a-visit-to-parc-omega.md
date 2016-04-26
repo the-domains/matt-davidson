@@ -5,11 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-26T20:44:21.280Z'
-dateModified: '2016-04-26T20:44:17.328Z'
+datePublished: '2016-04-26T20:45:59.002Z'
+dateModified: '2016-04-26T20:45:16.980Z'
 title: ''
 author:
-  - name: Matt Davidson
+  - name: ''
     url: ''
 sourcePath: _posts/2016-04-26-a-visit-to-parc-omega.md
 published: true
