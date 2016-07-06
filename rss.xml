@@ -4,7 +4,7 @@
         <description><![CDATA[Matt Davidson ]]></description>
         <link>http://mattdavidson.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 21:35:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 11:28:08 GMT</lastBuildDate>
         <atom:link href="http://mattdavidson.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Beluga Whale Live-stream at Arctic Watch]]></title>
@@ -19,6 +19,13 @@
             <link>http://mattdavidson.ca/hi-welcome-to-my-little-place-on-the-internet/index.html</link>
             <guid isPermaLink="false">b6440df9-b6f7-4370-8036-6c3ca03e90b5</guid>
             <pubDate>Mon, 25 Apr 2016 01:01:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Matt Davidson Photo]]></title>
+            <description><![CDATA[<article><h1>Matt Davidson Photo</h1><p>My prints are available for purchase. Please email me at Matt.davidson.3@gmail.com to enquire. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/646043c23e30b5f3973fe4574c736724/croprotate.jpg?cropheight=3165&cropwidth=3162&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8175a5f1-d9e7-4e0d-8003-cd397b69d2eb.jpg&x=51&y=51"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8175a5f1-d9e7-4e0d-8003-cd397b69d2eb.jpg</link>
+            <guid isPermaLink="false">fd5147be-d431-417d-abff-9c3edffda87a</guid>
+            <pubDate>Wed, 06 Jul 2016 11:27:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Trip to Parc Omega]]></title>
