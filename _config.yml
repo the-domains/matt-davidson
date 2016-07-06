@@ -1,41 +1,41 @@
-name: Matt Davidson
-favicon: null
-layout_spectrum: 0.42706
-typography_spectrum: 0.31197
 title: 'Matt Davidson '
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 1
+  brandStrength: 0
+  lightness: 0.25
   brandColors:
     - '#ff9900'
     - '#424242'
     - '#bcbcbc'
     - '#3299bb'
     - '#737373'
-  brandStrength: 0.8125
-  lightness: 0.25
-  saturation: 1
   rhythmicContrast: 0.4234042
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Matt Davidson
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.31197
+layout_spectrum: 0.9617021
